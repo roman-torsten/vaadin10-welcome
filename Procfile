@@ -1,0 +1,1 @@
+java -jar webapp-runner.jar target/vaadin-10-1.0-SNAPSHOT.war
